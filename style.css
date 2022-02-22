@@ -438,12 +438,6 @@ p{
 
 
 /* Company css start */
-.company-left{
-    
-}
-.company-left {
-
-}
 .company-left ul{
     list-style: none;
 }
@@ -478,10 +472,6 @@ p{
     .our-ul li a.active .service-menu .service-icon i{
         color: #e73c3e;
     }
-    .service-service-right{}
-    .service-service-right ul{
-
-    }
     .service-service-right ul li{
         position: relative;
         list-style: none;
@@ -503,15 +493,11 @@ p{
 
 
 /* testimonal section css start */
-    .testimonal-left{}
     .testimonal-left p{
         font-size: 25px;
         color: black;
+    }
 
-    }
-    .testimonal-left span{
-        
-    }
     .testimonal-left h6 {
         color: #e73c3e;
         font-size: 22px;
@@ -520,8 +506,6 @@ p{
 
 
 /* teem section start */
-    .mainteem{}
-    .mainteem{}
     .teem-top{
         position: relative;
     }
@@ -576,8 +560,6 @@ p{
         background-color: #e73c3e;
         color: white;
     }
-
-    .teem-bottom {}
     .teem-bottom h5{
         color: #e73c3e;
     }
@@ -585,21 +567,14 @@ p{
 
 
 /* Blog Section start */
-.mainblog{
 
-}
-.blog-top{
-    
-}
 .blog-top img{
     max-width: 100%;
     width: 100%;
 }
-.blog-bottom{}
 .blog-bottom h6{
     color: #e73c3e;
 }
-.blog-bottom h3{}
 .blog-bottom h3 a{
     text-decoration: none;
     display: inline-block;
@@ -631,7 +606,6 @@ p{
     color: white;
     padding: 90px 0;
 }
-.footer-1st{}
 .footer-1st p{
     color: white;
 
@@ -653,10 +627,6 @@ p{
 .footer-1st ul li a:hover{
     color: #e73c3e;
 }
-
-.footer-2nd{}
-.footer-2nd h5{}
-.footer-2nd ul{}
 .footer-2nd ul li{
     padding: 8px 0;
     transition: .6s;
@@ -673,9 +643,6 @@ p{
     font-size: 20px;
     margin-top: 10px;
     margin-right: 17px;
-}
-.footer-3rd-content{
-
 }
 .footer-3rd-content p{
     color: white;
@@ -709,6 +676,17 @@ p{
     color: #e73c3e;
 }
 /* footer section end */
+
+
+/* breadcome start*/
+.bradcrom {
+    background-image:linear-gradient(rgba(255, 255, 255, 0.808), rgba(255, 255, 255, 0.808)), url(./image/bg.jpg);
+    background-position: center 14%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 169px 0%;
+}
+/* breadcome end*/
 
 
 
